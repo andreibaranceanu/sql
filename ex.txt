@@ -1,2 +1,6 @@
 aaasssa
+<<<<<<< HEAD
 xbgbfcv
+=======
+sdfsdf
+>>>>>>> a053dc6e31baa040084bb21d3a85ad98fe449295
